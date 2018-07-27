@@ -1,0 +1,180 @@
+Received: from byapr02cu001.internal.outlook.com (2603:10b6:4:b0::36) by
+ DM5PR20MB2215.namprd20.prod.outlook.com with HTTP via
+ DM5PR04CA0034.NAMPRD04.PROD.OUTLOOK.COM; Thu, 26 Jul 2018 14:49:19 +0000
+Received: from BY1PR20MB0008.namprd20.prod.outlook.com
+ ([fe80::a021:45b1:192:f23f]) by BY1PR20MB0008.namprd20.prod.outlook.com
+ ([fe80::a021:45b1:192:f23f%10]) with mapi id 15.20.0995.014; Thu, 26 Jul 2018
+ 14:49:19 +0000
+From: Uma Sharma <uma@tact.ai>
+To: "Martha Stewart (Test Exchange User)" <martha@tact.ai>
+Subject: TEST ANDROID BUG 1678 Fw: Sandbox: Finish changing your Salesforce
+ account’s email address 
+Thread-Topic: TEST ANDROID BUG 1678 Fw: Sandbox: Finish changing your
+ Salesforce account’s email address 
+Thread-Index: AQHUGK7aXFQ0CJtouEuU336b2gytJqShq86l//+NAa0=
+Importance: high
+X-Priority: 1
+Date: Thu, 26 Jul 2018 14:49:18 +0000
+Message-ID:
+	<BY1PR20MB000825AFF8CF1B372B8F4419A72B0@BY1PR20MB0008.namprd20.prod.outlook.com>
+References:
+	<HiIPc000000000000000000000000000000000000000000000PBOEWJ001wfeLt0FQEur7CrAjO8_4Q@sfdc.net>,<BY1PR20MB0008AF098FF73912EC6AE424A72B0@BY1PR20MB0008.namprd20.prod.outlook.com>
+In-Reply-To:
+	<BY1PR20MB0008AF098FF73912EC6AE424A72B0@BY1PR20MB0008.namprd20.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: BY1PR20MB0008.namprd20.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	c43f480d-01b6-42e5-fdcf-08d5f306f789
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+X-Microsoft-Exchange-Diagnostics:
+	1;DM5PR20MB2215;27:oQ3gp6pOeKa+xH1YuPXpnxRNy9YCihD6zlUC8+RF6OulJ/O3T2HO7SemW1ABcRafLMlCEO3LBxeGnsqhtIlvRNBmWcI804vvG3zepgUZJ9GGwbVIC+yGbmWjcoIhzm3RmdbJJ0fbP7uBrXYqjWAi1RU31SLo4cojlhQNfDAKlOGw3Cn031XfcFJrH/Tr5BcDMszEo1MedHBqnSe+7zlz6r1JEWic9zHYsLTi0GQGQE1E9IndPvH7JufS4nqzdTzTS+ijUu4NKnhq4xRGUCwHUcNawwsBuRY1EFmIksn339iftwybia7Bed8dg6cH7XrnrUO8Ibm7/uQFDn5sCUd8Og==
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;ex:0;auth:0;dest:I;ENG:(750119)(520011016)(706158);
+X-Microsoft-Antispam-Message-Info:
+	86nY6ZCHrzbs2BVGs14uTCLUrJfTFwPVyBA5OMct9ekzqBESyul5TMcn7oPZwrJYCSNF9hZOWfuwt8MpLpDq3S5MVLKjYAdJzb5XT3a0Fmp0QlsqFYUg6n796N9kgmWd
+Content-Type: multipart/alternative;
+	boundary="_000_BY1PR20MB000825AFF8CF1B372B8F4419A72B0BY1PR20MB0008namp_"
+MIME-Version: 1.0
+
+--_000_BY1PR20MB000825AFF8CF1B372B8F4419A72B0BY1PR20MB0008namp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+________________________________
+From: Uma Sharma
+Sent: Thursday, July 26, 2018 7:40 AM
+To: Uma Sharma
+Subject: Fw: Sandbox: Finish changing your Salesforce account=92s email add=
+ress
+
+
+
+
+________________________________
+From: QA_SUPPORT@salesforce.com <qa_support@salesforce.com>
+Sent: Tuesday, July 10, 2018 5:33 PM
+To: Sandbox
+Subject: Sandbox: Finish changing your Salesforce account=92s email address
+
+We recently received a request to change your Salesforce account=92s email =
+address for username tim.miner@tact.ai.spsgdm.honspsqa.
+
+Previous email address: tim.miner@tact.ai
+New email address: sandbox@tact.ai
+
+To finish changing your email address, go to the following link. This link =
+expires in 72 hours.
+https://hon-sps--honspsqa.cs67.my.salesforce.com/setup/emailverif?oid=3D00D=
+0n0000008by7&k=3DeyJlbmMiOiJBMjU2R0NNIiwiYXVkIjoiMDBEMG4wMDAwMDA4Ynk3Iiwia2=
+lkIjoie1widFwiOlwiMDBEMG4wMDAwMDA4Ynk3XCIsXCJ2XCI6XCIwMkc2QTAwMDAwME0wZThcI=
+ixcImFcIjpcImVtYWlsY2hhbmdldXNlcnRyYW5zaWVudGtleWVuY3J5cHRcIixcInVcIjpcIjAw=
+NTBuMDAwMDAxZm04eVwifSIsImNyaXQiOlsiaWF0Il0sImlhdCI6MTUzMTI2OTIzNTE2NiwiZXh=
+wIjowfQ%3D%3D..xaHwyEFsLcsTnNDo.MMk4pHaYQoYOOOTJC3K8s5l72lrBwNMEHrz-lS1E5-c=
+UB90a5YLBCYBc9fOAlJF5Wtieh9Dr5B2X-1Mu8BhIfbFZj2c6nJhs0HYG70vl_AaxXHQYcB_b-8=
+JSiEVQa60O-B-goqHO0yh9RTndtZlrLzs%3D.kRxEXDQSomw_6G44WcZipA%3D%3D
+
+If you can't click the link, copy and paste it into your Web browser. If yo=
+u have questions, contact your Salesforce administrator.
+
+
+--_000_BY1PR20MB000825AFF8CF1B372B8F4419A72B0BY1PR20MB0008namp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p style=3D"margin-top:0;margin-bottom:0"><br>
+</p>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>From:</b> Uma Sharma<br>
+<b>Sent:</b> Thursday, July 26, 2018 7:40 AM<br>
+<b>To:</b> Uma Sharma<br>
+<b>Subject:</b> Fw: Sandbox: Finish changing your Salesforce account=92s em=
+ail address</font>
+<div>&nbsp;</div>
+</div>
+<meta content=3D"text/html; charset=3DWindows-1252">
+<div dir=3D"ltr">
+<div id=3D"x_divtagdefaultwrapper" dir=3D"ltr" style=3D"font-size:12pt; col=
+or:#000000; font-family:Calibri,Helvetica,sans-serif">
+<p style=3D"margin-top:0; margin-bottom:0"><br>
+</p>
+<br>
+<br>
+<div style=3D"color:rgb(0,0,0)">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"x_divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" =
+color=3D"#000000" style=3D"font-size:11pt"><b>From:</b> QA_SUPPORT@salesfor=
+ce.com &lt;qa_support@salesforce.com&gt;<br>
+<b>Sent:</b> Tuesday, July 10, 2018 5:33 PM<br>
+<b>To:</b> Sandbox<br>
+<b>Subject:</b> Sandbox: Finish changing your Salesforce account=92s email =
+address</font>
+<div>&nbsp;</div>
+</div>
+<div class=3D"x_BodyFragment"><font size=3D"2"><span style=3D"font-size:11p=
+t">
+<div class=3D"x_PlainText">We recently received a request to change your Sa=
+lesforce account=92s email address for username tim.miner@tact.ai.spsgdm.ho=
+nspsqa.<br>
+<br>
+Previous email address: tim.miner@tact.ai<br>
+New email address: sandbox@tact.ai<br>
+<br>
+To finish changing your email address, go to the following link. This link =
+expires in 72 hours.<br>
+<a href=3D"https://hon-sps--honspsqa.cs67.my.salesforce.com/setup/emailveri=
+f?oid=3D00D0n0000008by7&amp;k=3DeyJlbmMiOiJBMjU2R0NNIiwiYXVkIjoiMDBEMG4wMDA=
+wMDA4Ynk3Iiwia2lkIjoie1widFwiOlwiMDBEMG4wMDAwMDA4Ynk3XCIsXCJ2XCI6XCIwMkc2QT=
+AwMDAwME0wZThcIixcImFcIjpcImVtYWlsY2hhbmdldXNlcnRyYW5zaWVudGtleWVuY3J5cHRcI=
+ixcInVcIjpcIjAwNTBuMDAwMDAxZm04eVwifSIsImNyaXQiOlsiaWF0Il0sImlhdCI6MTUzMTI2=
+OTIzNTE2NiwiZXhwIjowfQ%3D%3D..xaHwyEFsLcsTnNDo.MMk4pHaYQoYOOOTJC3K8s5l72lrB=
+wNMEHrz-lS1E5-cUB90a5YLBCYBc9fOAlJF5Wtieh9Dr5B2X-1Mu8BhIfbFZj2c6nJhs0HYG70v=
+l_AaxXHQYcB_b-8JSiEVQa60O-B-goqHO0yh9RTndtZlrLzs%3D.kRxEXDQSomw_6G44WcZipA%=
+3D%3D" id=3D"LPlnk117975" class=3D"x_OWAAutoLink" previewremoved=3D"true">h=
+ttps://hon-sps--honspsqa.cs67.my.salesforce.com/setup/emailverif?oid=3D00D0=
+n0000008by7&amp;k=3DeyJlbmMiOiJBMjU2R0NNIiwiYXVkIjoiMDBEMG4wMDAwMDA4Ynk3Iiw=
+ia2lkIjoie1widFwiOlwiMDBEMG4wMDAwMDA4Ynk3XCIsXCJ2XCI6XCIwMkc2QTAwMDAwME0wZT=
+hcIixcImFcIjpcImVtYWlsY2hhbmdldXNlcnRyYW5zaWVudGtleWVuY3J5cHRcIixcInVcIjpcI=
+jAwNTBuMDAwMDAxZm04eVwifSIsImNyaXQiOlsiaWF0Il0sImlhdCI6MTUzMTI2OTIzNTE2Niwi=
+ZXhwIjowfQ%3D%3D..xaHwyEFsLcsTnNDo.MMk4pHaYQoYOOOTJC3K8s5l72lrBwNMEHrz-lS1E=
+5-cUB90a5YLBCYBc9fOAlJF5Wtieh9Dr5B2X-1Mu8BhIfbFZj2c6nJhs0HYG70vl_AaxXHQYcB_=
+b-8JSiEVQa60O-B-goqHO0yh9RTndtZlrLzs%3D.kRxEXDQSomw_6G44WcZipA%3D%3D</a><br=
+>
+<br>
+If you can't click the link, copy and paste it into your Web browser. If yo=
+u have questions, contact your Salesforce administrator.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+</div>
+</span></font></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_BY1PR20MB000825AFF8CF1B372B8F4419A72B0BY1PR20MB0008namp_--
