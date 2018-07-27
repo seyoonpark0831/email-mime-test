@@ -1,0 +1,87 @@
+Received: from byapr02cu001.internal.outlook.com (2603:10b6:4:b0::36) by
+ DM5PR20MB2215.namprd20.prod.outlook.com with HTTP via
+ DM5PR12CA0065.NAMPRD12.PROD.OUTLOOK.COM; Fri, 27 Jul 2018 13:16:56 +0000
+Received: from BY1PR20MB0008.namprd20.prod.outlook.com
+ ([fe80::a021:45b1:192:f23f]) by BY1PR20MB0008.namprd20.prod.outlook.com
+ ([fe80::a021:45b1:192:f23f%10]) with mapi id 15.20.0995.019; Fri, 27 Jul 2018
+ 13:16:55 +0000
+From: Uma Sharma &lt;uma@tact.ai&gt;
+To: &quot;Martha Stewart (Test Exchange User)&quot; &lt;martha@tact.ai&gt;, Tommy Sing
+	&lt;tsing@tact.ai&gt;
+Subject: ANDROID BUG 1678 Fw: check equal to
+Thread-Topic: ANDROID BUG 1678 Fw: check equal to
+Thread-Index: AQHUJavUGnDwkUWkY0urVevyv6zPR6Silyoi
+Date: Fri, 27 Jul 2018 13:16:55 +0000
+Message-ID:
+	&lt;BY1PR20MB0008ACBABC428027A71AE1B0A72A0@BY1PR20MB0008.namprd20.prod.outlook.com&gt;
+References:
+	&lt;BY1PR20MB00080F6F0DAFA77F44301919A72A0@BY1PR20MB0008.namprd20.prod.outlook.com&gt;
+In-Reply-To:
+	&lt;BY1PR20MB00080F6F0DAFA77F44301919A72A0@BY1PR20MB0008.namprd20.prod.outlook.com&gt;
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: BY1PR20MB0008.namprd20.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	ed4fe1b2-4a97-4d2c-5626-08d5f3c339f1
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+X-Microsoft-Exchange-Diagnostics:
+	1;DM5PR20MB2215;27:5ViWROWdrccOScvWQezTAoPcE6/XcTthc3qf2Z8KBtORLmfEU1VtHOYNB6D/VJEtOn6Z1KcHT0r/1srCPBtGehTVbxiBFe41i8PKvfapLd2QaoavUsKcvlXGksfLXjSp8auwm04917EsdJvceZ4EeAj9QQRMgwHxyU9yj7o/yM5SVD6nrJNc97wEQY3/rm3Czp7QVXrpOIUT2DiMR62ZoNAjku/ToZgGFcBqg1kjVg6SWIjw86oF3r+pDheXyw1V7+Izb19RbzSxM9vpApXdT8EuhNdl3onFnrB52PwnXK1AVtNHMYsJvQc3VqQD9t61FfkCo4vEZ1iDDyedz1T7YhNeyfAo3rGliKWQF0l4sA5tIO8RH8Pnay1RhntDvGVqdYO7u0Egy8x5p0DdhBedMQ==
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;ex:0;auth:0;dest:I;ENG:(750119)(520011016)(706158)(944506220)(944626516);
+X-Microsoft-Antispam-Message-Info:
+	MlCJSPXV2q2kLA5ks+ZnTaBiuteBfO8dG+t2mtiKK4g4D4VOmflGFU883ZCg8hwPTpCeGH7nzL+P+UaYmxkYBANbbkf24ZTzzwXCgIC/GscSLYadB3y3QXQd7jLGRBr0
+Content-Type: multipart/alternative;
+	boundary=&quot;_000_BY1PR20MB0008ACBABC428027A71AE1B0A72A0BY1PR20MB0008namp_&quot;
+MIME-Version: 1.0
+
+--_000_BY1PR20MB0008ACBABC428027A71AE1B0A72A0BY1PR20MB0008namp_
+Content-Type: text/plain; charset=&quot;iso-8859-1&quot;
+Content-Transfer-Encoding: quoted-printable
+
+
+
+user=3Da09388db-0801-42ad-83e6-f917eee7
+org=3Dorg-AO2cKVbATV5SQ5VnVJUmg
+
+
+--_000_BY1PR20MB0008ACBABC428027A71AE1B0A72A0BY1PR20MB0008namp_
+Content-Type: text/html; charset=&quot;iso-8859-1&quot;
+Content-Transfer-Encoding: quoted-printable
+
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=3D&quot;Content-Type&quot; content=3D&quot;text/html; charset=3Diso-8859-=
+1&quot;&gt;
+&lt;style type=3D&quot;text/css&quot; style=3D&quot;display:none;&quot;&gt;&lt;!-- P {margin-top:0;margi=
+n-bottom:0;} --&gt;&lt;/style&gt;
+&lt;/head&gt;
+&lt;body dir=3D&quot;ltr&quot;&gt;
+&lt;div id=3D&quot;divtagdefaultwrapper&quot; style=3D&quot;font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;&quot; dir=3D&quot;ltr&quot;&gt;
+&lt;p style=3D&quot;margin-top:0;margin-bottom:0&quot;&gt;&lt;span style=3D&quot;font-size: 12pt;&quot;&gt;=
+&amp;nbsp;&lt;/span&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;div style=3D&quot;color: rgb(0, 0, 0);&quot;&gt;
+&lt;meta content=3D&quot;text/html; charset=3Diso-8859-1&quot;&gt;
+&lt;div dir=3D&quot;ltr&quot;&gt;
+&lt;div id=3D&quot;x_divtagdefaultwrapper&quot; dir=3D&quot;ltr&quot; style=3D&quot;font-size:12pt; col=
+or:#000000; font-family:Calibri,Helvetica,sans-serif&quot;&gt;
+&lt;p style=3D&quot;margin-top:0; margin-bottom:0&quot;&gt;&lt;/p&gt;
+&lt;div&gt;user=3Da09388db-0801-42ad-83e6-f917eee7&lt;/div&gt;
+&lt;div&gt;org=3Dorg-AO2cKVbATV5SQ5VnVJUmg&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+--_000_BY1PR20MB0008ACBABC428027A71AE1B0A72A0BY1PR20MB0008namp_--
