@@ -5,19 +5,19 @@ Received: from BY1PR20MB0008.namprd20.prod.outlook.com
  ([fe80::a021:45b1:192:f23f]) by BY1PR20MB0008.namprd20.prod.outlook.com
  ([fe80::a021:45b1:192:f23f%10]) with mapi id 15.20.0995.019; Fri, 27 Jul 2018
  13:16:55 +0000
-From: Uma Sharma &lt;uma@tact.ai&gt;
-To: &quot;Martha Stewart (Test Exchange User)&quot; &lt;martha@tact.ai&gt;, Tommy Sing
-	&lt;tsing@tact.ai&gt;
+From: Uma Sharma <uma@tact.ai>
+To: "Martha Stewart (Test Exchange User)" <martha@tact.ai>, Tommy Sing
+	<tsing@tact.ai>
 Subject: ANDROID BUG 1678 Fw: check equal to
 Thread-Topic: ANDROID BUG 1678 Fw: check equal to
 Thread-Index: AQHUJavUGnDwkUWkY0urVevyv6zPR6Silyoi
 Date: Fri, 27 Jul 2018 13:16:55 +0000
 Message-ID:
-	&lt;BY1PR20MB0008ACBABC428027A71AE1B0A72A0@BY1PR20MB0008.namprd20.prod.outlook.com&gt;
+	<BY1PR20MB0008ACBABC428027A71AE1B0A72A0@BY1PR20MB0008.namprd20.prod.outlook.com>
 References:
-	&lt;BY1PR20MB00080F6F0DAFA77F44301919A72A0@BY1PR20MB0008.namprd20.prod.outlook.com&gt;
+	<BY1PR20MB00080F6F0DAFA77F44301919A72A0@BY1PR20MB0008.namprd20.prod.outlook.com>
 In-Reply-To:
-	&lt;BY1PR20MB00080F6F0DAFA77F44301919A72A0@BY1PR20MB0008.namprd20.prod.outlook.com&gt;
+	<BY1PR20MB00080F6F0DAFA77F44301919A72A0@BY1PR20MB0008.namprd20.prod.outlook.com>
 Accept-Language: en-US
 Content-Language: en-US
 X-MS-Exchange-Organization-AuthAs: Internal
@@ -37,11 +37,11 @@ X-Microsoft-Antispam-Mailbox-Delivery:
 X-Microsoft-Antispam-Message-Info:
 	MlCJSPXV2q2kLA5ks+ZnTaBiuteBfO8dG+t2mtiKK4g4D4VOmflGFU883ZCg8hwPTpCeGH7nzL+P+UaYmxkYBANbbkf24ZTzzwXCgIC/GscSLYadB3y3QXQd7jLGRBr0
 Content-Type: multipart/alternative;
-	boundary=&quot;_000_BY1PR20MB0008ACBABC428027A71AE1B0A72A0BY1PR20MB0008namp_&quot;
+	boundary="_000_BY1PR20MB0008ACBABC428027A71AE1B0A72A0BY1PR20MB0008namp_"
 MIME-Version: 1.0
 
 --_000_BY1PR20MB0008ACBABC428027A71AE1B0A72A0BY1PR20MB0008namp_
-Content-Type: text/plain; charset=&quot;iso-8859-1&quot;
+Content-Type: text/plain; charset="iso-8859-1"
 Content-Transfer-Encoding: quoted-printable
 
 
@@ -51,37 +51,37 @@ org=3Dorg-AO2cKVbATV5SQ5VnVJUmg
 
 
 --_000_BY1PR20MB0008ACBABC428027A71AE1B0A72A0BY1PR20MB0008namp_
-Content-Type: text/html; charset=&quot;iso-8859-1&quot;
+Content-Type: text/html; charset="iso-8859-1"
 Content-Transfer-Encoding: quoted-printable
 
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta http-equiv=3D&quot;Content-Type&quot; content=3D&quot;text/html; charset=3Diso-8859-=
-1&quot;&gt;
-&lt;style type=3D&quot;text/css&quot; style=3D&quot;display:none;&quot;&gt;&lt;!-- P {margin-top:0;margi=
-n-bottom:0;} --&gt;&lt;/style&gt;
-&lt;/head&gt;
-&lt;body dir=3D&quot;ltr&quot;&gt;
-&lt;div id=3D&quot;divtagdefaultwrapper&quot; style=3D&quot;font-size:12pt;color:#000000;font=
--family:Calibri,Helvetica,sans-serif;&quot; dir=3D&quot;ltr&quot;&gt;
-&lt;p style=3D&quot;margin-top:0;margin-bottom:0&quot;&gt;&lt;span style=3D&quot;font-size: 12pt;&quot;&gt;=
-&amp;nbsp;&lt;/span&gt;&lt;br&gt;
-&lt;/p&gt;
-&lt;div style=3D&quot;color: rgb(0, 0, 0);&quot;&gt;
-&lt;meta content=3D&quot;text/html; charset=3Diso-8859-1&quot;&gt;
-&lt;div dir=3D&quot;ltr&quot;&gt;
-&lt;div id=3D&quot;x_divtagdefaultwrapper&quot; dir=3D&quot;ltr&quot; style=3D&quot;font-size:12pt; col=
-or:#000000; font-family:Calibri,Helvetica,sans-serif&quot;&gt;
-&lt;p style=3D&quot;margin-top:0; margin-bottom:0&quot;&gt;&lt;/p&gt;
-&lt;div&gt;user=3Da09388db-0801-42ad-83e6-f917eee7&lt;/div&gt;
-&lt;div&gt;org=3Dorg-AO2cKVbATV5SQ5VnVJUmg&lt;/div&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/body&gt;
-&lt;/html&gt;
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p style=3D"margin-top:0;margin-bottom:0"><span style=3D"font-size: 12pt;">=
+&nbsp;</span><br>
+</p>
+<div style=3D"color: rgb(0, 0, 0);">
+<meta content=3D"text/html; charset=3Diso-8859-1">
+<div dir=3D"ltr">
+<div id=3D"x_divtagdefaultwrapper" dir=3D"ltr" style=3D"font-size:12pt; col=
+or:#000000; font-family:Calibri,Helvetica,sans-serif">
+<p style=3D"margin-top:0; margin-bottom:0"></p>
+<div>user=3Da09388db-0801-42ad-83e6-f917eee7</div>
+<div>org=3Dorg-AO2cKVbATV5SQ5VnVJUmg</div>
+<br>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
 
 --_000_BY1PR20MB0008ACBABC428027A71AE1B0A72A0BY1PR20MB0008namp_--
